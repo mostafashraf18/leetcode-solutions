@@ -1,6 +1,6 @@
 # Intuition
-first i thought i can do it be making two array and coping to them, iwill just copy the reversed number in an array and i will copy the res number in another array and then compine them to each othe but it 
-didn't go as planned, it was a headache and too expensive in memory and also complex as f***.
+<--- first i thought i can do it be making two array and coping to them, iwill just copy the reversed number in an array and i will copy the res number in another array and then compine them to each othe but it 
+didn't go as planned, it was a headache and too expensive in memory and also complex as f***. --->
 
 # Approach
 my approch here is to use itrations module to decrease the number of iterations i had to do to reverse the number.
